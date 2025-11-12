@@ -1,4 +1,4 @@
-## Super Store Data Analytics Tableau Dashboard
+## Superstore 의사결정 지원 Dashboard 프로젝트
 <img width="1046" height="669" alt="image" src="https://github.com/user-attachments/assets/7bacccd1-78c0-46c9-9dc8-ecd4747babd1" />
 
 ### 1. 프로젝트 개요
